@@ -5,14 +5,24 @@
 
 <h3 align="center">I'm a Machine Learning Engineer</h3>
 
+<p align="center">
+  <img src="https://github.com/Quangcore/Quangcore/raw/main/GIF.gif" width="500"/>
+</p>
+
+<h2 align="center">📍 About me</h2>
+
+<p align="center">
+  🌍 I'm based in Ha Noi <br>
+  🔭 I'm interested in AI, Machine Learning, and Data Science <br>
+  🚀 I'm currently working on a Waste Classification AI Project
+</p>
+
+
 <!--
 **Quangcore/Quangcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 📍About me 
-- 🌍 I'm based in Ha Noi 
-- 🔭 I'm interested in AI, Machine Learning, and Data Science 
-- 🚀 I'm currently working on a Waste Classification AI Project 
+
 
 
 <div align="center">
