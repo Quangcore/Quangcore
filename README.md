@@ -40,10 +40,10 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
   <a href="#">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=c%23,powershell,Ruby,Objective-C&layout=compact&theme=react" />
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quangcore&hide=c%23,powershell,Ruby,Objective-C&layout=compact&theme=react" />
   </a>
   <a href="#">
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" />
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=Quangcore&show_icons=true&theme=react" />
   </a>
 </div>
 
