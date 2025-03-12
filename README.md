@@ -14,7 +14,7 @@
 <p align="center">
   🌍 I'm based in Ha Noi <br>
   🔭 I'm interested in AI, Machine Learning, and Data Science <br>
-  🚀 I'm currently working on a Waste Classification AI Project
+  <!--🚀 I'm currently working on a Waste Classification AI Project
 </p>
 
 
