@@ -6,7 +6,7 @@
 <h3 align="center">I'm a Machine Learning Engineer</h3>
 
 <!--
-**Quangcore/Quangcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quangcore/Quangcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  ##📍About me
 🌍 I'm based in Ha Noi 
