@@ -8,7 +8,7 @@
 <!--
 **Quangcore/Quangcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- 📍About me
+ ##📍About me
 🌍 I'm based in Ha Noi 
 🔭 I'm interested in AI, Machine Learning, and Data Science  
 🚀 I'm currently working on a Waste Classification AI Project 
